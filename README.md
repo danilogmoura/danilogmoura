@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Danilo Gomes de Moura. I work as a Developer at loading.
+My name is Danilo Gomes de Moura. I work as a Developer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=danilogmoura&repo=danilogmoura&countColorcountColor)
 
