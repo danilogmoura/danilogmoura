@@ -2,7 +2,7 @@
 ==========================================================================================================================================
 
 
-My name is Danilo Moura. I work as a Developer.
+My name is Danilo Moura.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
